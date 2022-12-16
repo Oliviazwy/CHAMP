@@ -1,0 +1,22 @@
+{
+    "cuda_idx": "cuda:0",
+    "data_dir": "datasets/CHAMP",
+    "exp": "CHAMP_test",
+    "is_eval": false,
+    "ckpt": "checkpoint/",
+    "skip_rate": 1,
+    "skip_rate_test": 1,
+    "in_features": 72,
+    "num_stage": 12,
+    "d_model": 256,
+    "kernel_size": 10,
+    "input_n": 20,
+    "output_n": 10,
+    "dct_n": 20,
+    "lr_now": 0.00025,
+    "max_norm": 10000,
+    "epoch": 50,
+    "batch_size": 32,
+    "test_batch_size": 32,
+    "is_load": false
+}
