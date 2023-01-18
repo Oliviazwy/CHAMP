@@ -27,11 +27,7 @@ squat, walking, etc.), and a still state action. The 50 composite actions are th
 ![](GIF/standUp_counterclockwise.gif)  ![](GIF/standUp_keepClose.gif)  ![](GIF/standUp_keepFar.gif)  ![](GIF/standUp_left.gif)  ![](GIF/standUp_nod.gif)
 ![](GIF/standUp_raiseUp.gif)  ![](GIF/standUp_right.gif)  ![](GIF/standUp_shake.gif)  ![](GIF/standUp_wave.gif)  ![](GIF/sitDown_raiseUp.gif)
 
-<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/still.gif" width="150" height="150">
-<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/sitDowne.gif" width="150" height="150">
-<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/standUp.gif" width="150" height="150">
-<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/squat.gif" width="150" height="150">
-<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/squatUp.gif" width="150">
+<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/still.gif" width="150" height="150">  <img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/sitDowne.gif" width="150" height="150">  <img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/standUp.gif" width="150" height="150"> <img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/squat.gif" width="150" height="150"> <img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/squatUp.gif" width="150">
 ###Dataset structure: 
 In this evaluation, we use 15 classes of atomic actions and 40 classes of composite actions.
 
