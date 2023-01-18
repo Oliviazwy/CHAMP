@@ -16,7 +16,7 @@ there are 16 atomic actions, including 10 upper body actions (raise up, nod, wav
 squat, walking, etc.), and a still state action. The 50 composite actions are the pairwise combination of atomic actions.
 ![img.png](img.png)
 
-![](GIF/still.gif =150x150)  ![](GIF/sitDown.gif)  ![](GIF/standUp.gif)  ![](GIF/squat.gif)  ![](GIF/squatUp.gif)  
+![](GIF/still.gif)  ![](GIF/sitDown.gif)  ![](GIF/standUp.gif)  ![](GIF/squat.gif)  ![](GIF/squatUp.gif)  
 ![](GIF/wave.gif)  ![](GIF/raiseUp.gif)  ![](GIF/clockwise.gif) ![](GIF/counterclockwise.gif)  ![](GIF/keepClose.gif) 
 ![](GIF/sitDown_clockwise.gif)  ![](GIF/sitDown_counterclockwise.gif)  ![](GIF/sitDown_keepClose.gif)  ![](GIF/sitDown_keepFar.gif)  ![](GIF/sitDown_left.gif)  
 ![](GIF/sitDown_nod.gif)  ![](GIF/sitDown_right.gif)  ![](GIF/sitDown_shake.gif)  ![](GIF/sitDown_wave.gif)  ![](GIF/squatUp_clockwise.gif)  
@@ -27,7 +27,8 @@ squat, walking, etc.), and a still state action. The 50 composite actions are th
 ![](GIF/standUp_counterclockwise.gif)  ![](GIF/standUp_keepClose.gif)  ![](GIF/standUp_keepFar.gif)  ![](GIF/standUp_left.gif)  ![](GIF/standUp_nod.gif)
 ![](GIF/standUp_raiseUp.gif)  ![](GIF/standUp_right.gif)  ![](GIF/standUp_shake.gif)  ![](GIF/standUp_wave.gif)  ![](GIF/sitDown_raiseUp.gif)
 
-
+<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/clockwise.gif" width="50%">
+<img src="https://github.com/Oliviazwy/CHAMP/blob/main/GIF/still.gif" width="50%">
 ###Dataset structure: 
 In this evaluation, we use 15 classes of atomic actions and 40 classes of composite actions.
 
